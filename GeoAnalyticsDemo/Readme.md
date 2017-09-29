@@ -28,4 +28,15 @@ In this tutorial you will go through the following features of Qlik Sense:
 ![Image 1: QVD-files added to Data Manager](https://github.com/Sha-dow/QlikDevGroupMaterials/blob/master/GeoAnalyticsDemo/Images/Step1.png)
 *Image 1: QVD-files added to Data Manager*
 
-* Press Magic Wand icon (https://github.com/Sha-dow/QlikDevGroupMaterials/blob/master/GeoAnalyticsDemo/Images/Step2.png) on a right hand side to create links between imported tables 
+* Press Magic Wand icon ![](https://github.com/Sha-dow/QlikDevGroupMaterials/blob/master/GeoAnalyticsDemo/Images/Step2.png) on a right hand side to create links between imported tables 
+
+* You should see tables linked together (Image 2)
+
+![Image 2: Files linked together](https://github.com/Sha-dow/QlikDevGroupMaterials/blob/master/GeoAnalyticsDemo/Images/Step3.png)
+*Image 3: Files linked together*
+
+* Add paavo_1_he.csv -file to project. This file contains population data from Finnish postal code areas.
+* In Add Table -view change Delimiter to Comma, Header Size to 2 and tick Add Fields (Image 3)
+
+![Image 3: Add Table options](https://github.com/Sha-dow/QlikDevGroupMaterials/blob/master/GeoAnalyticsDemo/Images/Step4.png)
+*Image 4: Add Table options*
